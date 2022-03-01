@@ -11,5 +11,4 @@ input.onGesture(Gesture.TiltRight, function () {
     Sprite.move(1)
 })
 let Sprite: game.LedSprite = null
-basic.showIcon(IconNames.Heart)
 Sprite = game.createSprite(2, 2)
